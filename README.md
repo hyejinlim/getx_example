@@ -2,7 +2,6 @@
 
 A new Flutter project.
 (feature branch test...)
-(feature branch -> develop branch test...)
 
 ## Getting Started
 
