@@ -1,6 +1,7 @@
-# getx_example1
+# getx_example
 
 A new Flutter project.
+(feature branch test...)
 
 ## Getting Started
 
